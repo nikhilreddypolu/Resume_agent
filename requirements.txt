@@ -1,0 +1,5 @@
+pandas
+python-docx
+python-dotenv
+langchain
+langchain-google-genaipython.exe -m pip install --upgrade pip
